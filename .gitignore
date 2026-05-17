@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+nextword_model.h5
+nextword_model.h5
+nextword_model.h5
