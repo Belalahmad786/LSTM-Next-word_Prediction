@@ -4,7 +4,6 @@ import pickle
 
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequence import pad_sequences
-
 # Load trained model
 model = load_model("nextword_model.h5")
 
